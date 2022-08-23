@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Connect with me
+
+![img_contact](./img/globe_light.svg)](https://samueljosse.com#gh-light-mode-only)
+![img_contact](./img/globe_dark.svg)](https://samueljosse.com#gh-dark-mode-only)
+
+
